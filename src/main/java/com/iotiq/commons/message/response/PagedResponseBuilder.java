@@ -1,4 +1,4 @@
-package com.iotiq.commons;
+package com.iotiq.commons.message.response;
 
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Component;

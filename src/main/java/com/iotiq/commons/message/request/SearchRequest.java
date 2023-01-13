@@ -1,4 +1,4 @@
-package com.iotiq.commons;
+package com.iotiq.commons.message.request;
 
 import org.springframework.data.jpa.domain.Specification;
 

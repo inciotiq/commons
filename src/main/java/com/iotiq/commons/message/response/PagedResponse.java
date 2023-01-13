@@ -1,4 +1,4 @@
-package com.iotiq.commons;
+package com.iotiq.commons.message.response;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

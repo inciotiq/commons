@@ -1,4 +1,4 @@
-package com.iotiq.commons;
+package com.iotiq.commons.message.request;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
