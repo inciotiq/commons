@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 @Component
 @RequiredArgsConstructor
 public class PasswordUtil {
+
     private final PasswordEncoder encoder;
 
     public String encode(CharSequence rawPassword) {
