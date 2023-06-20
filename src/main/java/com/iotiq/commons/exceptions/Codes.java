@@ -23,6 +23,7 @@ public class Codes extends LinkedList<String> {
             joiner.add(messagePart);
             add(joiner.toString());
         }
+
         return toStringArray();
     }
 }
