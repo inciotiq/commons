@@ -1,3 +1,3 @@
 # commons-module
 
-parent: https://github.com/Iotiq-Erste/culturati-backend
+[parent](https://github.com/inciotiq/app-starter-base)
